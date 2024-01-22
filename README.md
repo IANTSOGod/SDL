@@ -1,2 +1,2 @@
-#CREATING CHESS GAMES WITH SDL C++
+#CREATING GAMES WITH SDL C++
     Waiting for collabs
